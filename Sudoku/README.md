@@ -1,7 +1,7 @@
-#Sudoku Solver
+# Sudoku Solver
 
 This solves sudoku puzzles using backtracking algorithm.
 
-#Sudoku Puzzle
+# Sudoku Puzzle
 
 This creates a puzzle based on the difficulty selected.
